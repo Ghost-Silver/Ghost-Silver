@@ -3,23 +3,18 @@
 <h1><code>Ghost-Silver</code></h1>
 
 <!-- Dynamic Typing Title -->
-
 <a href="https://github.com/Ghost-Silver">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=450&height=40&lines=%E6%AC%A2%E8%BF%8E%E6%94%AF%E6%8C%81CTorch%EF%BC%81" alt="欢迎支持CTorch！" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=450&height=32&lines=%E6%AC%A2%E8%BF%8E%E6%94%AF%E6%8C%81CTorch%EF%BC%81" alt="欢迎支持CTorch！" />
 </a>
 
-<br/><br/>
-
 <!-- Quick Badges -->
-
-<p align="center">
+<p style="margin-top: 6px; margin-bottom: 6px;">
   <a href="https://github.com/Ghost-Silver"><img src="https://img.shields.io/github/followers/Ghost-Silver?style=for-the-badge&logo=github&color=0d1117&logoColor=ffffff&labelColor=161b22" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Ghost-Silver&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ghost-Silver&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <!-- Toolchains & Stacks -->
-
-<p align="center">
+<p style="margin-top: 0px;">
   <img src="https://img.shields.io/badge/C%2B%2B20_%2F_C%2B%2B23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++20/C++23"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
